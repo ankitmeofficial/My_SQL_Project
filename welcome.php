@@ -9,7 +9,7 @@
 <body>
 <header>
         <nav>
-            <div class="logo">MyWebsite</div>
+            <div class="logo">Liberary management or more</div>
             <ul class="nav-links">
                 <li><a href="welcome.php">Home</a></li>
                 <li><a href="about.html">About</a></li>
